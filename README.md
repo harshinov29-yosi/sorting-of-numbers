@@ -1,4 +1,4 @@
-# sorting-of-numbers
+# Sorting-of-numbers
 ## Aim
 To write and execute an Assembly Language Program for sorting data in Ascending and  descending order using 8051 microcontroller on Keil software.
 ---
