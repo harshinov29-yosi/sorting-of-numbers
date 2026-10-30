@@ -60,6 +60,7 @@ END
 ---
 
 ## Algorithm(Descending order)
+
 1. Initialize the register **R7** with count.  
 2. Get first two elements in two registers.  
 3. Compare the two elements of data:  
@@ -71,6 +72,7 @@ END
    - If **No**, repeat the process from Step 2.  
    - If **Yes**, stop the program.  
 ---
+
 ## Program (Descending order)
 
 ```asm
@@ -80,8 +82,6 @@ END
 
 ```
 ## OUTPUT(Descending order)
-
-
 
 ---
 ## RESULT:
