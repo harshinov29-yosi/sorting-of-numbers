@@ -6,7 +6,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 ## Apparatus Required
 - Personal Computer  
 - Keil µVision software  
----
+
 
 ## Algorithm(ASCENDING ORDER)
 1. Initialize the register **R7** with count (number of elements).  
@@ -17,8 +17,8 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 4. Check if **R7 = 0** → if yes, move the register **R0 & A**.  
 5. Increment pointer and decrement **R7**.  
 6. If **R7 ≠ 0**, repeat from Step 2.  
-7. Otherwise, stop the program.  
----
+7. Otherwise, stop the program.
+
 
 ## Program (Ascending order)
 
@@ -52,12 +52,12 @@ HERE:  SJMP HERE
 
 END
 
-```
+
 ##OUTPUT(Ascending order)
 
 <img width="1913" height="1075" alt="Screenshot 2026-10-21 103153" src="https://github.com/user-attachments/assets/f251484b-7932-4792-b781-7593b7cb991c" />
 
----
+
 
 ## Algorithm(Descending order)
 
