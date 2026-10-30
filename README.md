@@ -54,9 +54,9 @@ END
 
 ```
 ## OUTPUT(Ascending order)
+<img width="1913" height="1075" alt="Screenshot 2026-10-21 103153" src="https://github.com/user-attachments/assets/f251484b-7932-4792-b781-7593b7cb991c" />
 
 ---
-<img width="1913" height="1075" alt="Screenshot 2026-10-21 103153" src="https://github.com/user-attachments/assets/0c4d2661-9d17-414c-a33b-ea60b813124a"/>
 
 ## Algorithm(Descending order)
 
